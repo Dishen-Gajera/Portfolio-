@@ -209,7 +209,7 @@ function SocialLinksArea() {
     <div className="flex gap-4 flex-wrap justify-center md:justify-start">
       <SocialBtn
         name="LinkedIn"
-        link="https://www.linkedin.com/in/dishen-gajera/"
+        link="https://www.linkedin.com/in/dishen-gajera-97bb30247/"
         icon="https://img.icons8.com/color/48/linkedin.png"
       />
 
