@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi, I’m Dishu — a MERN stack developer focused on building modern, scalable web applications with real-world features like AI integration, authentication, and payment systems. I enjoy turning ideas into production-ready products with clean UI and efficient backend architecture.
+Hi, I’m Dishen Gajera — a MERN stack developer focused on building modern, scalable web applications with real-world features like AI integration, authentication, and payment systems. I enjoy turning ideas into production-ready products with clean UI and efficient backend architecture.
 
 Welcome to my portfolio! This repository showcases my full-stack projects built using the MERN stack, focusing on real-world applications such as AI-powered platforms, video streaming systems, and real-time communication apps. Each project demonstrates my ability to design scalable architectures, integrate third-party APIs, and build user-friendly interfaces.
 
