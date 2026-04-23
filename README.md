@@ -1,16 +1,28 @@
-# React + Vite
+👋 About Me
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, I’m Dishu — a MERN stack developer focused on building modern, scalable web applications with real-world features like AI integration, authentication, and payment systems. I enjoy turning ideas into production-ready products with clean UI and efficient backend architecture.
 
-Currently, two official plugins are available:
+Welcome to my portfolio! This repository showcases my full-stack projects built using the MERN stack, focusing on real-world applications such as AI-powered platforms, video streaming systems, and real-time communication apps. Each project demonstrates my ability to design scalable architectures, integrate third-party APIs, and build user-friendly interfaces.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💼 Featured Projects
+🔹 IntervAI – AI Interview Preparation Platform
 
-## React Compiler
+An AI-powered SaaS platform built with the MERN stack that allows users to upload resumes, generate intelligent interview questions, practice technical & HR rounds, and receive real-time feedback. It includes a credit-based system with Razorpay integration for monetization.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 GitHub: https://github.com/Dishen-Gajera/IntervAI
+🌐 Live: https://intervai-client-ai.onrender.com/
+⚙️ Tech: React, Node.js, Express, MongoDB, OpenRouter, Razorpay, Tailwind, Framer Motion
+🔹 ViewTube – AI Powered Video Streaming Platform
 
-## Expanding the ESLint configuration
+A YouTube-inspired video platform with features like video & shorts upload, voice and text search, AI-based recommendations using Gemini API, creator analytics, playlists, subscriptions, and personalized user history.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 GitHub: https://github.com/Dishen-Gajera/ViewTube
+🌐 Live: https://viewtube-frontend-e6fw.onrender.com/
+⚙️ Tech: React, Node.js, Express, MongoDB, Gemini API, Tailwind
+🔹 DG Chat – Real-Time Chat Application
+
+A real-time chat application built with the MERN stack featuring live messaging, image sharing, emoji support, and online user status using Socket.io.
+
+🔗 GitHub: https://github.com/Dishen-Gajera/chatapk
+🌐 Live: https://chatapk-frontend.onrender.com/
+⚙️ Tech: React, Node.js, Express, MongoDB, Socket.io, Tailwind

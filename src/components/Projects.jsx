@@ -3,12 +3,24 @@ import dp from "../assets/dp.jpg"; // Ensure path is correct
 import ProjectCard from "./ProjectCard";
 import viewtube from "../assets/viewtube.png";
 import dgchat from "../assets/dgchat.png";
+import interai from "../assets/interai.png";
+
 
 function Projects({ styles }) {
   // Array of project data for cleaner code
   const projectData = [
     {
       id: 1,
+      title: "IntervAI – AI Interview Preparation Platform",
+      description:
+        "An AI-powered interview preparation platform built with the MERN stack featuring resume upload, intelligent question generation, technical & HR practice, feedback system, and credit-based access with Razorpay integration.",
+      github: "https://github.com/Dishen-Gajera/IntervAI",
+      live: "https://intervai-client-ai.onrender.com/",
+      image: interai,
+      tags: ["React", "Node", "Express", "Mongodb", "OpenRouter", "Tailwind", "Framer Motion", "Razorpay", "O-auth"],
+    },
+    {
+      id: 2,
       title: "ViewTube – AI Powered Video Streaming Platform",
       description:
         "ViewTube is a YouTube-like video streaming platform with features such as video & shorts posting, voice and text search, AI-based recommendations using Gemini API, creator analytics, revenue estimation, playlists, subscriptions, and personalized user history",
@@ -17,8 +29,9 @@ function Projects({ styles }) {
       image: viewtube,
       tags: ["React", "Node", "Express", "Mongodb", "Gemni-api", "Tailwind"],
     },
+
     {
-      id: 2,
+      id: 3,
       title: "DG Chat – Live Chat & Image Sharing App",
       description:
         "A real-time chat application built with the MERN stack featuring live messaging, image sharing, emoji support, and real-time online status using Socket.io",
